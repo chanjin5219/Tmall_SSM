@@ -4,7 +4,7 @@ import java.util.List;
 
 public class Category {
     private Integer id;
-
+    //试一下能不能提交
     private String name;
 
     private List<Product> products;
